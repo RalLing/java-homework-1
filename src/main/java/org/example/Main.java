@@ -164,7 +164,7 @@ public class Main {
         int[][] matrix = new int[size][size];
         for (int i = 0; i < size; i++) {
             matrix[i][i] = 1;                // главная диагональ
-            matrix[i][size - 1 - i] = 1;     // побочная диагональ
+
         }
         for (int[] row : matrix) {
             System.out.println(Arrays.toString(row));
