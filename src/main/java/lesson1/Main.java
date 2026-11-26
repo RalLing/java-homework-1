@@ -163,7 +163,7 @@ public class Main {
     public static void fillDiagonals(int size) {
         int[][] matrix = new int[size][size];
         for (int i = 0; i < size; i++) {
-            matrix[i][i] = 1;                // главная диагональ
+            matrix[i][i] = 1;
 
         }
         for (int[] row : matrix) {
