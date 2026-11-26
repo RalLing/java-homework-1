@@ -45,7 +45,7 @@ public class Main {
         System.out.println("\n--- 12 ---");
         multiplyLessThanSix();
 
-        System.out.println("\n--- 13 ---");
+        System.out.println("\n--- 13 ----");
         fillDiagonals(5);
 
         System.out.println("\n--- 14 ---");
