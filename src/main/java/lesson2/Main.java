@@ -3,7 +3,7 @@ package lesson2;
 
 public class Main {
     public static void main(String[] args) {
-        // --- Задание 2: Массив из 5 товаров ---
+
         Product[] productsArray = new Product[5];
 
         productsArray[0] = new Product("Samsung S25 Ultra", "01.02.2025", "Samsung Corp.", "Korea", 5599, true);
